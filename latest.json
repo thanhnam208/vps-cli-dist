@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/thanhnam208/vps-cli-dist/releases/download/v0.2.0/VPS-Manager-v0.2.0.zip",
-  "notes": "Bản đầu: vault DPAPI, Windows Hello, kho mật khẩu, terminal đa phiên, gói lệnh theo category + import .md, sidebar gọn."
+  "version": "0.2.1",
+  "url": "https://github.com/thanhnam208/vps-cli-dist/releases/download/v0.2.1/VPS-Manager-v0.2.1.zip",
+  "notes": "Sửa Windows Hello (hộp thoại nổi lên, hủy không treo); thêm cấu hình thư mục dữ liệu ngay ở màn login; đổi thư mục dữ liệu hoạt động đúng."
 }
