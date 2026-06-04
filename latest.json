@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/thanhnam208/vps-cli-dist/releases/download/v0.2.1/VPS-Manager-v0.2.1.zip",
-  "notes": "Sửa Windows Hello (hộp thoại nổi lên, hủy không treo); thêm cấu hình thư mục dữ liệu ngay ở màn login; đổi thư mục dữ liệu hoạt động đúng."
+  "version": "0.2.3",
+  "url": "https://github.com/thanhnam208/vps-cli-dist/releases/download/v0.2.3/VPS-Manager-v0.2.3.zip",
+  "notes": "Thêm kết nối bằng mật khẩu (ngoài SSH key); nút ❓ Hướng dẫn và ℹ️ About trong app; nút ↻ Kết nối lại chỉ hiện khi phiên đứt; ẩn/hiện cột Quản lý & panel Gói lệnh (nhớ trạng thái)."
 }
